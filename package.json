@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "node src/index.js"
+    "start": "node runner.js"
   },
   "author": "",
   "license": "ISC",
